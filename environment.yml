@@ -1,4 +1,6 @@
 name: Qiskitenv
 dependencies:
+- pip=18
 - pip:
   - qiskit
+  - matplotlib
